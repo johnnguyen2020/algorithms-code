@@ -1,5 +1,5 @@
 # algorithms-code
-Sample code from EECE 2560. Fundamentals of Engineering Algorithms
+Sample code from EECE 2560. Fundamentals of Engineering Algorithms. Lab Partner Ray Trebicka
 
 Project #1
 In this project, you will write a complete program that allows the user to play a game of Mastermind
